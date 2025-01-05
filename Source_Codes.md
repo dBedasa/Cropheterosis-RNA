@@ -229,5 +229,6 @@ box<-ggplot(pheno_box, aes(x = Trait, y = Value, fill = Trait)) +
 
 
 this a test for development of data analysis using deep learning!
+one more poith
 
 
