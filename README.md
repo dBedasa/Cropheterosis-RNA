@@ -1,2 +1,2 @@
 # Cropheterosis-RNA
-Disecting molecular mechanisms controling crop heterosis using Deep learning could accelerate crop improvemnt
+Dissecting the molecular mechanisms controlling crop heterosis using deep learning could accelerate crop improvement
