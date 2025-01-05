@@ -228,7 +228,4 @@ box<-ggplot(pheno_box, aes(x = Trait, y = Value, fill = Trait)) +
        axis.text.x = element_text(vjust = 1.2, hjust = 1))
 
 
-this a test for development of data analysis using deep learning!
-one more poith
-
 
