@@ -4,3 +4,4 @@ Dissecting the molecular mechanisms controlling crop heterosis using deep learni
 
 # Pan-Transcriptomics&genomics
 
+what are the factors controlling genetic 

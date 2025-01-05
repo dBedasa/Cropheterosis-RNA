@@ -49,3 +49,4 @@ HV013B <- ggplot() +
      axis.text.y = element_text(hjust = 1, margin = margin(r = 0)),  # Move y-axis labels closer
      axis.title.y = element_text(margin = margin(r = 10))             # Move y-axis title closer
    )!
+   
