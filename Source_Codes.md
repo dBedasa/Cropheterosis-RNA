@@ -226,6 +226,6 @@ box<-ggplot(pheno_box, aes(x = Trait, y = Value, fill = Trait)) +
        x = "Trait",
        y = "Value",
        axis.text.x = element_text(vjust = 1.2, hjust = 1))
-
+       #we don't need extention for a data we are going to updoad to out Github
 
 
